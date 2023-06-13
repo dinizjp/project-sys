@@ -15,6 +15,14 @@ st.sidebar.image(image, use_column_width='auto')
 st.sidebar.markdown('''---''')
 st.sidebar.markdown('### Powered by Diniz JP')
 
+st.sidebar.markdown('### Linkedin')
+st.sidebar.markdown('linkedin.com/in/joão-pedro-diniz-b997b5220')
+
+st.sidebar.markdown('### Discord')
+st.sidebar.markdown('dinizjp#8730')
+
+st.sidebar.markdown('### Github')
+st.sidebar.markdown('https://github.com/dinizjp')
 #---------------------------------------------#
 
 
