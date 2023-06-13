@@ -16,7 +16,7 @@ st.sidebar.markdown('''---''')
 st.sidebar.markdown('### Powered by Diniz JP')
 
 st.sidebar.markdown('### Linkedin')
-st.sidebar.markdown('https:linkedin.com/in/joão-pedro-diniz-b997b5220')
+st.sidebar.markdown('https: linkedin.com/in/joão-pedro-diniz-b997b5220')
 
 st.sidebar.markdown('### Discord')
 st.sidebar.markdown('dinizjp#8730')
