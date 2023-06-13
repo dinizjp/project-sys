@@ -37,7 +37,7 @@ with tab1:
         st.markdown('Nota-se uma diminuição da média de alcance da página ao longo do ano, possíveis causas são: **Atualização constante do algoritmo do insta**, **Aumento do consumo no tiktok** e **Maior incentivo ao consumo de vídeo em relação aos outros formatos**.')
         
 
-        df = pd.read_csv('/Users/dinizjp/Programação /Projetos /Projeto SYS/dados_publicacoes/Dashboard/Alcance_pagina.csv', sep=';')
+        df = pd.read_csv('project-sys/Alcance_pagina.csv', sep=';')
 
         df['Data'] = pd.to_datetime(df['Data'], format='%d/%m/%Y')
 
@@ -121,7 +121,7 @@ with tab2:
                     
                     
 
-        path= ('/Users/dinizjp/Programação /Projetos /Projeto SYS/dados_publicacoes/Dashboard/visitas_perfil_21_23.csv')
+        path= ('project-sys/visitas_perfil_21_23.csv')
 
         df_visita = pd.read_csv(path, sep=';')
 
