@@ -30,7 +30,7 @@ def adicionar_anotacoes(fig, df, x_column, y_column, text_list):
 #---------------------------------------------##---------------------------------------------#
 
 
-df = pd.read_csv('/Users/dinizjp/Programação /Projetos /Projeto SYS/dados_publicacoes/Dashboard/dados_tratados.csv', sep=',')
+df = pd.read_csv('dados_tratados.csv', sep=',')
 
 
 tab1, tab2, tab3 = st.tabs( ['Correlação, Média e Desvio Padrão', 'Análise de posts', 'Dispersão por métrica'])
