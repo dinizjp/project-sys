@@ -17,14 +17,12 @@ st.sidebar.markdown('### Powered by Diniz JP')
 
 icon_size = 20 
 
-st.sidebar.markdown('### Linkedin')
 st.sidebar.button('Linkedin', 'https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/','Me siga no Linkedin', icon_size )
 
-st.sidebar.markdown('### Discord')
-st.sidebar.markdown('dinizjp#8730')
-
-st.sidebar.markdown('### Github')
 st.sidebar.button('Github', 'https://github.com/dinizjp', 'Acesse meus códigos' , icon_size)
+
+
+
 #---------------------------------------------#
 
 
