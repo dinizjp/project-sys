@@ -15,14 +15,16 @@ st.sidebar.image(image, use_column_width='auto')
 st.sidebar.markdown('''---''')
 st.sidebar.markdown('### Powered by Diniz JP')
 
+icon_size = 20 
+
 st.sidebar.markdown('### Linkedin')
-st.sidebar.markdown('https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/')
+st.sidebar.button('Linkedin', 'https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/','Follow me on LinkedIn', icon_size )
 
 st.sidebar.markdown('### Discord')
 st.sidebar.markdown('dinizjp#8730')
 
 st.sidebar.markdown('### Github')
-st.sidebar.markdown('https://github.com/dinizjp')
+st.sidebar.button('Github', 'https://github.com/dinizjp', icon_size)
 #---------------------------------------------#
 
 
