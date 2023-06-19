@@ -36,7 +36,7 @@ with st.container():
 
     
     st.markdown(
-    """ ##### O projeto foi desenvolvido para a empresa ShareYourSex, buscando encontrar insights que ajudem a produzir post mais acertivos para sua comunidade """  )
+    """ ##### O projeto foi desenvolvido para a empresa ShareYourSex, buscando encontrar insights que ajudem a produzir post mais assertivos para sua comunidade """  )
     
     
     st.markdown("""  
