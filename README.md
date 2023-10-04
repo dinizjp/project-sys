@@ -22,11 +22,11 @@ O segundo foi feito uma análise de todos os posts do ano de 2023 até o final d
 Foi entregue um relátorio com os principais insights encontrados e um Dashboard interativo com as informações da primeira análise. 
 
 ## Ferramentas utilizadas 
-Jupyter Lab
-Python 3.10.9
-Plotly: 5.9.0
-Pandas: 1.5.3
-Streamlit 1.23.1
+- Jupyter Lab
+- Python 3.10.9
+- Plotly: 5.9.0
+- Pandas: 1.5.3
+- Streamlit 1.23.1
 
 
 # Resultados:
