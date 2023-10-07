@@ -19,7 +19,7 @@ link dash: https://project-sys.streamlit.app/
 O segundo foi feito uma análise de todos os posts do ano de 2023 até o final de agosto, encontrando padrões que pudessem ser replicados de forma efetiva e melhorar o desempenho geral da conta.
 
 # Produto final 
-Foi entregue um relátorio com os principais insights encontrados e um Dashboard interativo com as informações da primeira análise. 
+Foi entregue um relatório com os principais insights encontrados e um Dashboard interativo com as informações da primeira análise. 
 
 ## Ferramentas utilizadas 
 - Jupyter Lab
